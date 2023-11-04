@@ -1,0 +1,99 @@
+/* Styles pour la barre de navigation */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .navbar ul li {
+    margin-right: 10px;
+  }
+  
+  .navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Styles pour la police */
+  body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /* Styles pour la section d'en-tête (hero section) */
+  .hero-section {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .hero-title {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .hero-description {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Styles pour les sections de projets */
+  .projects-section {
+    background-color: #fff;
+    padding: 50px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project-title {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .project-description {
+    color: #666;
+  }
+  
+  /* Styles pour la section À propos */
+  .about-section {
+    background-color: #f2f2f2;
+    padding: 50px;
+  }
+  
+#about-description {
+    color: #333;
+  }
+  
+  /* Styles pour la section Contact */
+  #contact-section {
+    background-color: #e8e2e2;
+    padding: 50px;
+  }
+  
+  .contact-info {
+    color: #333;
+  }
+  
+  /* Styles pour le footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+
+  
